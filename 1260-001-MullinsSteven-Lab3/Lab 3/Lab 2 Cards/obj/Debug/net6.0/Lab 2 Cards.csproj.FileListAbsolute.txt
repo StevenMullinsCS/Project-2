@@ -1,0 +1,105 @@
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.AssemblyReference.cache
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfoInputs.cache
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfo.cs
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.CoreCompileInputs.cache
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.exe
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.deps.json
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.runtimeconfig.json
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.dll
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.pdb
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.dll
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\refint\Lab 2 Cards.dll
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.pdb
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.genruntimeconfig.cache
+D:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\ref\Lab 2 Cards.dll
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.exe
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.deps.json
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.runtimeconfig.json
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.dll
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.pdb
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.AssemblyReference.cache
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfoInputs.cache
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfo.cs
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.CoreCompileInputs.cache
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.dll
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\refint\Lab 2 Cards.dll
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.pdb
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.genruntimeconfig.cache
+G:\CODING PROJECTS\Spring Semester 2023 - Projects\Lab 2 Cards\obj\Debug\net6.0\ref\Lab 2 Cards.dll
+C:\Users\Lenovo\Documents\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.exe
+C:\Users\Lenovo\Documents\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.deps.json
+C:\Users\Lenovo\Documents\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.runtimeconfig.json
+C:\Users\Lenovo\Documents\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.dll
+C:\Users\Lenovo\Documents\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.pdb
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.dll
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\refint\Lab 2 Cards.dll
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.pdb
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Lab 2 Cards\obj\Debug\net6.0\ref\Lab 2 Cards.dll
+C:\Users\Cryst\Downloads\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.exe
+C:\Users\Cryst\Downloads\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.deps.json
+C:\Users\Cryst\Downloads\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.runtimeconfig.json
+C:\Users\Cryst\Downloads\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.dll
+C:\Users\Cryst\Downloads\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.pdb
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.AssemblyReference.cache
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfoInputs.cache
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfo.cs
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.CoreCompileInputs.cache
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.dll
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\refint\Lab 2 Cards.dll
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.pdb
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.genruntimeconfig.cache
+C:\Users\Cryst\Downloads\Lab 2 Cards\obj\Debug\net6.0\ref\Lab 2 Cards.dll
+D:\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.exe
+D:\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.deps.json
+D:\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.runtimeconfig.json
+D:\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.dll
+D:\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.pdb
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.AssemblyReference.cache
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfoInputs.cache
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfo.cs
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.CoreCompileInputs.cache
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.dll
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\refint\Lab 2 Cards.dll
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.pdb
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.genruntimeconfig.cache
+D:\Lab 3\Lab 2 Cards\obj\Debug\net6.0\ref\Lab 2 Cards.dll
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.exe
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.deps.json
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.runtimeconfig.json
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.dll
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.pdb
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.AssemblyReference.cache
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.GeneratedMSBuildEditorConfig.editorconfig
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfoInputs.cache
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfo.cs
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.CoreCompileInputs.cache
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.dll
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\refint\Lab 2 Cards.dll
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.pdb
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.genruntimeconfig.cache
+G:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\ref\Lab 2 Cards.dll
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.AssemblyReference.cache
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfoInputs.cache
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.AssemblyInfo.cs
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.csproj.CoreCompileInputs.cache
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.dll
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\refint\Lab 2 Cards.dll
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.pdb
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.exe
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.deps.json
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.runtimeconfig.json
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.dll
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\bin\Debug\net6.0\Lab 2 Cards.pdb
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\Lab 2 Cards.genruntimeconfig.cache
+D:\1260-001-MullinsSteven-Lab3\Lab 3\Lab 2 Cards\obj\Debug\net6.0\ref\Lab 2 Cards.dll
